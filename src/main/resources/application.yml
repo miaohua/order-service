@@ -34,9 +34,9 @@ springfox:
         path: /swagger
 
 #TODO: remove inventory service url config
-#dmall:
-#  inventory:
-#    url: http://localhost:9081
+dmall:
+  inventory:
+    url: http://localhost:9080
 
 #TODO: add eureka configs
 eureka:
